@@ -1,4 +1,4 @@
-import { BigintIsh, Price, Token, CurrencyAmount } from '@uniswap/sdk-core';
+import { BigintIsh, Price, Token, CurrencyAmount } from '@surge/sdk-core';
 export declare const computePairAddress: ({ factoryAddress, tokenA, tokenB }: {
     factoryAddress: string;
     tokenA: Token;

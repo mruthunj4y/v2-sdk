@@ -1,4 +1,4 @@
-import { Currency, Price, Token } from '@uniswap/sdk-core';
+import { Currency, Price, Token } from '@surge/sdk-core';
 import { Pair } from './pair';
 export declare class Route<TInput extends Currency, TOutput extends Currency> {
     readonly pairs: Pair[];

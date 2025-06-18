@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent, Price, TradeType } from '@uniswap/sdk-core';
+import { Currency, CurrencyAmount, Percent, Price, TradeType } from '@surge/sdk-core';
 import { Pair } from './pair';
 import { Route } from './route';
 interface InputOutput<TInput extends Currency, TOutput extends Currency> {
