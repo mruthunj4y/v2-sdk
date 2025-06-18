@@ -1,7 +1,7 @@
 {
   "name": "@surge/v2-sdk",
   "license": "MIT",
-  "version": "4.3.0",
+  "version": "3.0.1",
   "description": "🛠 An SDK for building applications on top of Surge V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
